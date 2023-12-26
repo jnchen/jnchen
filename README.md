@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jnchen
-- 👀 I’m interested in Java\Go\C&C++
+- 👀 I’m interested in Java\Python\C&C++
 - 🌱 I’m currently learning Go
 - 📫 How to reach me caojingchen@live.com
 
